@@ -46,6 +46,6 @@ This file contains ground truth values for the face attribute analysis task. The
 
 This folder contains 87 gallery images for the face verification task. These are cropped front face images, with the name of images corresponding to the Subject ID.
 
-## license Agreement
+## License Agreement
 - Kindly sign and return the license agreement to receive the password for the zip files.
 - If you have any questions about this dataset, please contact Udaybhan Rathore at [udayrathore748@gmail.com](mailto:udayrathore748@gmail.com).
