@@ -34,7 +34,7 @@ The **MobileFace.zip** file contains datasets for both face verification and fac
     - `image_num`
     - ...
 
-### Cropped_Front_Face
+### Cropped_front_face
 
 This folder contains 87 gallery images for the face verification task. These are cropped front face images, with the name of images corresponding to the Subject ID.
 
