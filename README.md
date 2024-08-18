@@ -4,19 +4,17 @@ Our research has been accepted at the ICPR 2024, which work introduces the first
 
 ## Face Verification and Face Attribute Analysis
 
-This folder contains datasets for both face verification and face attribute analysis tasks.
+The **MobileFace.zip** file contains datasets for both face verification and face attribute analysis tasks. Additionally, it includes cropped gallery images for the face verification task and a ground truth CSV file for the face attribute analysis task.
 
-### Folder Structure
+### Face Verification/Face Attribute Folders Structure
 
 - The dataset is organized into three folders, corresponding to three different distances: 2 meters, 5 meters, and 10 meters.
 - Each distance folder contains 87 subfolders, representing the total number of subjects. Each subfolder contains the detected probe face images of the subject at the specified distance.
-
-#### Statistics:
 - **Total number of probe face images used for...**
   - Face verification task: 87 * 22 = 1914 images at each distance
   - Face Attribute Analysis task: 87 * 15 = 1305 images at each distance
 
-#### Face Verification/Face Attribute Folders:
+#### Face_verification/Face_Attribute:
 
 - **2M:** 
   - `Subject_ID/`
@@ -36,13 +34,11 @@ This folder contains datasets for both face verification and face attribute anal
     - `image_num`
     - ...
 
-### Cropped Front Face
+### Cropped_Front_Face
 
-This folder contains gallery images for the face verification task. These are cropped front face images, with the number of images corresponding to the Subject ID.
+This folder contains 87 gallery images for the face verification task. These are cropped front face images, with the name of images corresponding to the Subject ID.
 
-### Ground Truth Data
-
-#### GT_Age_Gender.csv
+### GT_Age_Gender.csv
 This file contains ground truth values for the face attribute analysis task. The CSV file has three columns: `Subject ID`, `Age`, and `Gender`.
 - **Subject ID:** Contains 87 rows, corresponding to the 87 subjects.
 - **Age:** Contains the true age of each subject.
