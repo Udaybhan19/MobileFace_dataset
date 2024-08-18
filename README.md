@@ -42,9 +42,9 @@ This file contains ground truth values for the face attribute analysis task. The
 - **Age:** Contains the true age of each subject.
 - **Gender:** Contains the gender of each subject, with values either "Man" or "Woman".
 
-## Cropped_front_face
+## Cropped_Front_Face.zip
 
-This folder contains 87 gallery images for the face verification task. These are cropped front face images, with the name of images corresponding to the Subject ID.
+The zip file contains a folder with 87 gallery images for the face verification task. These are cropped front face images, with the name of images corresponding to the Subject ID.
 
 ## License Agreement
 - Kindly sign and return the license agreement to receive the password for the zip files.
