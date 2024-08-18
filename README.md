@@ -17,19 +17,19 @@ The zip file contains datasets for both face verification and face attribute ana
 #### Face_verification/Face_Attribute:
 
 - **2M:** 
-  - `Subject_ID/`
+  - `Subject_ID:`
     - `image_num`
     - `image_num`
     - ...
 
 - **5M:** 
-  - `Subject_ID/`
+  - `Subject_ID:`
     - `image_num`
     - `image_num`
     - ...
 
 - **10M:** 
-  - `Subject_ID/`
+  - `Subject_ID:`
     - `image_num`
     - `image_num`
     - ...
