@@ -3,7 +3,6 @@ Our research has been accepted at ICPR 2024, where we present the first large-sc
 
 #### Dataset Details
 
-| **Attribute**               | **Details**                                         |
 |-----------------------------|-----------------------------------------------------|
 | **Number of Subjects**      | 87                                                  |
 | **Age Range**               | 18-34 years, Average 22.6 years                    |
