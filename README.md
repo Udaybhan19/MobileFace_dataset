@@ -2,7 +2,7 @@
 Our research has been accepted at ICPR 2024, where we present the first large-scale face analysis using the newly proposed **MobileFaces** dataset. This dataset consists of images and videos captured in real-world, unconstrained environments, encompassing a wide range of distances, poses, and resolutions, all recorded using mobile phones.
 
 #### Dataset Details
-
+| **Attribute**               | **Details**                                         |
 |-----------------------------|-----------------------------------------------------|
 | **Number of Subjects**      | 87                                                  |
 | **Age Range**               | 18-34 years, Average 22.6 years                    |
