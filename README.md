@@ -57,7 +57,8 @@ This file contains ground truth values for the face attribute analysis task. The
 The zip file contains a folder with 87 gallery images for the face verification task. These are cropped front face images, with the name of images corresponding to the Subject ID.
 
 ## License Agreement
-- Please sign and send the license agreement to the  [akagarwal@iiserb.ac.in](mailto:akagarwal@iiserb.ac.in) to receive the password for the zip files.
+- Have the license agreement reviewed and signed by an individual authorized to make legal commitments on behalf of your institution. Your institution's legal office must review and execute the license. The signature of the Director, the Registrar or the Head of the Department with the university seal is also accepted.
+- Please scan and email the executed agreement to the  [akagarwal@iiserb.ac.in](mailto:akagarwal@iiserb.ac.in) to receive the password for the zip files.
 - If you have any questions about this dataset, please contact at [akagarwal@iiserb.ac.in](mailto:akagarwal@iiserb.ac.in) or [udayrathore748@gmail.com](mailto:udayrathore748@gmail.com).
 
 ## Citation:
