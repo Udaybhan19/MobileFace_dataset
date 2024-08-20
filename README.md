@@ -1,6 +1,28 @@
 # MobileFaces_dataset
 Our research has been accepted at ICPR 2024, where we present the first large-scale face analysis using the newly proposed **MobileFaces** dataset. This dataset consists of images and videos captured in real-world, unconstrained environments, encompassing a wide range of distances, poses, and resolutions, all recorded using mobile phones. The experiments involved 87 subjects (50 boys and 37 girls). For face verification, 1,914 probe images and 87 gallery images were used at each distance. For face attribute analysis, 1,305 images were utilized at each distance. Ground truth values for subjects' age and gender were provided to assess model performance.
 
+#### Dataset Details
+
+| **Attribute**               | **Details**                                         |
+|-----------------------------|-----------------------------------------------------|
+| **Number of Subjects**      | 87                                                  |
+| **Number of Frames per Video** | 200-250                                            |
+| **Number of Videos**        | 261 (87 videos per distance)                       |
+| **Total Number of Frames**  | 52,913                                              |
+| **Frame Dimensions**        | 1920 × 1080 pixels                                 |
+| **Frame Rate**              | 30.01 frames/second                                |
+| **Gallery Views**           | 5 views per subject (Front, 30° Left, 30° Right, 45° Left, 45° Right) |
+| **Age Range**               | 18-34 years, Average 22.6 years                    |
+| **Gender Ratio**            | 50 Boys, 37 Girls                                  |
+| **Distances from Mobile**   | 2, 5, and 10 meters                                |
+| **Location**                | Indoor, Outdoor daytime (Natural light), Outdoor nighttime (Synthetic light) |
+| **Annotation**              | Age and gender of each subject in a CSV file       |
+
+#### Sample Images
+
+Below are sample images from the dataset at varying distances.
+
+![Figure shows full images and cropped face images from our collected dataset reflect the challenges developed due to not only varying distances but also the subject being unconstrained in having natural actions.](path/to/sample1.png)
 ## MobileFace.zip
 
 The zip file contains datasets for both face verification and face attribute analysis tasks. Additionally it include a ground truth CSV file for the face attribute analysis task.
