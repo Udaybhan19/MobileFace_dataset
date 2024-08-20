@@ -62,4 +62,5 @@ The zip file contains a folder with 87 gallery images for the face verification 
 
 ## Citation:
 - Udaybhan Rathore, Akshay Agarwal, “An Unconstrained Dataset for Face Recognition Across Distance, Pose, and Resolution”. In IEEE International Conference on Pattern Recognition (ICPR), 2024.
+- Udaybhan Rathore, Akshay Agarwal, “Is DFR for Soft Biometrics Prediction in Unconstrained Images Fair and Effective?”. In International Conference on Learning Representations (ICLR) TinyPapers, 2023. 
 
