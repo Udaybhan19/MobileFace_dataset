@@ -6,12 +6,6 @@ Our research has been accepted at ICPR 2024, where we present the first large-sc
 | **Attribute**               | **Details**                                         |
 |-----------------------------|-----------------------------------------------------|
 | **Number of Subjects**      | 87                                                  |
-| **Number of Frames per Video** | 200-250                                            |
-| **Number of Videos**        | 261 (87 videos per distance)                       |
-| **Total Number of Frames**  | 52,913                                              |
-| **Frame Dimensions**        | 1920 × 1080 pixels                                 |
-| **Frame Rate**              | 30.01 frames/second                                |
-| **Gallery Views**           | 5 views per subject (Front, 30° Left, 30° Right, 45° Left, 45° Right) |
 | **Age Range**               | 18-34 years, Average 22.6 years                    |
 | **Gender Ratio**            | 50 Boys, 37 Girls                                  |
 | **Distances from Mobile**   | 2, 5, and 10 meters                                |
