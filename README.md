@@ -67,5 +67,5 @@ The zip file contains a folder with 87 gallery images for the face verification 
 - If you have any questions about this dataset, please contact at [akagarwal@iiserb.ac.in](mailto:akagarwal@iiserb.ac.in) or [udayrathore748@gmail.com](mailto:udayrathore748@gmail.com).
 
 ## Citation:
-Udaybhan Rathore, Akshay Agarwal, “An Unconstrained Dataset for Face Recognition Across Distance, Pose, and Resolution”. In IEEE International Conference on Pattern Recognition (ICPR), 2024.
+- Udaybhan Rathore, Akshay Agarwal, “An Unconstrained Dataset for Face Recognition Across Distance, Pose, and Resolution”. In IEEE International Conference on Pattern Recognition (ICPR), 2024.
 
