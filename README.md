@@ -20,9 +20,9 @@ Our research has been accepted at ICPR 2024, where we present the first large-sc
 
 #### Sample Images
 
-Below are sample images from the dataset at varying distances.
+The figure below displays sample images from our dataset, including both full images and cropped face images captured at a distance of 10 meters. These images illustrate the challenges encountered in unconstrained environments with subjects free to do natural actions.
 
-![Figure shows full images and cropped face images from our collected dataset reflect the challenges developed due to not only varying distances but also the subject being unconstrained in having natural actions.](Probe_Images_Samples.png)
+![Figure shows full images and cropped face images from our collected dataset reflect the challenges developed due to not only varying distances but also the subject being unconstrained in having natural actions.](Probe_Images_Samples_10m.png)
 
 ## MobileFace.zip
 
