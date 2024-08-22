@@ -6,7 +6,7 @@ Our research has been accepted at ICPR 2024, where we present the first large-sc
 |-----------------------------|-----------------------------------------------------|
 | **Number of Subjects**      | 87                                                  |
 | **Age Range**               | 18-34 years, Average 22.6 years                    |
-| **Gender Ratio**            | 50 Boys, 37 Girls                                  |
+| **Gender Ratio**            | 50 Men, 37 Women                                 |
 | **Distances from Mobile**   | 2, 5, and 10 meters                                |
 | **Location**                | Indoor, Outdoor daytime (Natural light), Outdoor nighttime (Synthetic light) |
 | **Annotation**              | Age and gender of each subject in a CSV file       |
